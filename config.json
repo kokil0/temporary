@@ -1,0 +1,15 @@
+{
+  "params":
+  {
+    "local_sever": "True",
+    "local_uri": "mysql://root:@localhost/portfolio",
+    "prod_uri": "mysql://root:@localhost/portfolio",
+    "fb_url": "https://facebook.com/portfolio",
+    "tw_url": "https://twitter.com/portfolio",
+    "insta_url": "https://instagram.com/portfolio",
+    "linkedin_url": "https://linkedin.com/portfolio",
+    "specifications": "I am A Web Developer specializing in front end development. Aware with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including HTML5, Python OOP, JavaScript, CSS, Bootstrap, MySQL.",
+    "gmail-user": "",
+    "gmail-password": ""
+  }
+}
